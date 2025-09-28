@@ -36,8 +36,8 @@ The AI-Human Covenant is a community standard anchored in five pillars: **Human 
 We welcome PRs for wording, examples, translations, and implementations. Start with [`CONTRIBUTING.md`](CONTRIBUTING.md). Be kind — we follow [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md).
 
 ## 📜 Licenses
-- Text & images: CC BY-SA 4.0 (`/LICENSES/LICENSE-text-CC-BY-SA-4.0.md`)
-- Code & workflows: MIT (`/LICENSES/LICENSE-code-MIT.md`)
+- Text & images: CC BY-SA 4.0 (`/LICENSES/LICENSE-text-C`)
+- Code & workflows: MIT [`/LICENSE`](LICENSE)  
 
 ## 🙌 Credits
 Founded by Tina Hui and the Create Good Karma community.  
