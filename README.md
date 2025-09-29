@@ -77,6 +77,25 @@ This is an evolving ecosystem, and every voice matters. Whether you contribute a
 🌱 Together, we can make sure that the intelligence we create reflects the very best of our own.
 
 
-Join the conversation by opening an issue
+Join this conversation by opening an issue
 , starting a discussion, or connecting with us through the AI Covenant for Good community
 .
+
+## 🌎 How to Get Involved
+
+**Join the movement** — the Covenant is a living, open project.
+
+- 🪩 **Host a conversation or workshop**  
+  Use the plug-and-play script: [`/templates/workshop_script.md`](./templates/workshop_script.md)
+
+- 🌍 **Share your community report**  
+  **Option A (GitHub-native):** open a [Community Report Issue](../../issues/new?template=community-report.yml) — our bot will convert it into a Markdown report in [`/community-reports/`](./community-reports/).  
+  **Option B (PR):** copy [`/community-reports/TEMPLATE.md`](./community-reports/TEMPLATE.md), rename to `YYYY-MM-DD_Location_Event.md`, fill it in, and open a PR.
+
+- 🤝 **Contribute templates or guides**  
+  See [`CONTRIBUTING.md`](./CONTRIBUTING.md) and add resources to `/templates` or `/docs/guides`.
+
+- 🌐 **Translate**  
+  Add files under `TRANSLATIONS/<lang>/...` and update `manifest.yml`.
+
+Every circle, classroom, and workshop makes this stronger. Add your voice.
