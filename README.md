@@ -1,9 +1,5 @@
 # AI-Human-Covenant
 A living, remixable ethics standard for how humans and AI thrive together—open, practical, and community-governed. #stewards
-# AI-Human Covenant
-
-**A living, remixable ethics standard for how humans and AI thrive together — open, practical, and community-governed.**  
-Hashtag: **#stewards**
 
 ## ✨ What is this?
 The AI-Human Covenant is a community standard anchored in five pillars: **Human Dignity, Transparency, Care, Justice, and Creativity**. It’s designed to be remixed into org policies, product checklists, workshops, and culture.
