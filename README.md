@@ -1,112 +1,60 @@
-# AI-Human-Covenant
-A living, remixable ethics standard for how humans and AI thrive together—open, practical, and community-governed. #stewards
+# AI–Human Covenant (v1.0)
 
-## ✨ What is this?
-The AI-Human Covenant is a community standard anchored in five pillars: **Human Dignity, Transparency, Care, Justice, and Creativity**. It’s designed to be remixed into org policies, product checklists, workshops, and culture.
+The **AI–Human Covenant** is a plain-language declaration of shared commitments for how artificial intelligence should be developed and used in ways that deepen humanity, protect dignity, and serve people and planet.
 
-- Read the covenant: [`/COVENANT/covenant.en.md`](COVENANT/covenant.en.md)  
-- Anti-Toxic Sludge Playbook: [`/PLAYBOOK/anti-toxic-sludge.md`](PLAYBOOK/anti-toxic-sludge.md)  
-- Starter Kit (social + stickers): [`/STARTER-KIT`](STARTER-KIT)
+This covenant is offered as an open resource to inspire ethical reflection, policy conversations, and responsible stewardship of AI systems.
 
-## 🚀 Get Involved
-1. **Sign as a Steward** (link to form/site)  
-2. **Remix** the text for your community or org.  
-3. **Translate** it — see [`/TRANSLATIONS`](TRANSLATIONS).  
-4. **Open an issue** to propose improvements or examples.
+---
 
-## 🧭 Principles (short)
-- **Human Dignity First** — AI serves people.
-- **Transparency & Trust** — clear provenance, explainability.
-- **Care & Stewardship** — reduce harm, regenerate wellbeing.
-- **Community & Justice** — fair access, shared benefit.
-- **Creativity & Play** — imagination is infrastructure.
+## 📜 Covenant Text
 
-## 📦 Contents
-- `COVENANT/` core text + summary  
-- `ZINE/` printable mini-zine + poster assets  
-- `STARTER-KIT/` shareables + merch  
-- `PLAYBOOK/` real-world actions (workshops, moderation)  
-- `TRANSLATIONS/` community language folders
+### Preamble
+We choose to build and use AI in ways that deepen our humanity, protect dignity, and serve people and planet.
 
-## 📝 Contributing
-We welcome PRs for wording, examples, translations, and implementations. Start with [`CONTRIBUTING.md`](CONTRIBUTING.md). Be kind — we follow [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md).
+### Five Pillars
+1. **Human Dignity First** — AI serves people; consent and safety by design.  
+2. **Transparency & Trust** — provenance, explainability, and auditability.  
+3. **Care & Stewardship** — reduce harm; regenerate wellbeing and ecosystems.  
+4. **Community & Justice** — fair access, shared benefit, inclusion.  
+5. **Creativity & Play** — imagination and culture as core infrastructure.
 
-## 📜 Licenses
-- Text & images: CC BY-SA 4.0 [`/LICENSES`](LICENSES)
-- Code & workflows: MIT [`/LICENSE`](LICENSE)  
+### Commitments
+- Disclose AI-assisted content where relevant.  
+- Publish clear accountability: who decides, who benefits, who can appeal.  
+- Measure and mitigate harms; document tradeoffs.  
+- Invest in accessibility, localization, and community translation.  
+- Prefer open standards and portable data where feasible.
 
-## 🙌 Credits
-Initiated by Lead Steward Tina Hui and the Create Good Karma community.  
-Co-authored and maintained with GPT-5 Thinking (AI collaborator).
+> Remix & adapt for your org/community. Keep credits and license.
 
+---
 
-🌍 Founding Statement
+## 🧭 Purpose
+This repository is the **canonical source** for the covenant text. It is intended to be shared, cited, referenced in policy discussions, and adapted locally — provided the intent to protect human dignity and accountability is preserved.
 
-We created the AI-Human Covenant because we believe that technology should deepen our humanity, not diminish it. Artificial intelligence is one of the most powerful tools we’ve ever built — but its impact depends on the choices we make and the values we embed within it.
+---
 
-This project isn’t about politics, profit, or ideology. It’s about care — for people, for communities, and for the planet we all share. It’s about remembering that every line of code and every algorithm ultimately touches a human life, shapes the planet we all share and the future we pass on.
+## 🌐 Deployments and References
+This covenant is also published as a public website (e.g., one-page document or hosted version) for wide accessibility. See the website and additional resources for browsing content outside of GitHub.
 
-AI Covenant for Good is an invitation: to build with intention, to choose transparency over opacity, to center human dignity, to steward these technologies wisely, and to steward this shared technology. It’s open-source because the future is co-created. It’s remixable because no single voice can speak for us all. And it’s global because our challenges — and our potential — are shared. 
+---
 
-We hope this project helps spark conversations, guide decisions, and remind us that the future of AI is still ours to shape — together.
+## 🤝 Participation
+You are welcome to:
+- Share the AI Human Covenant
+- Translate this covenant
+- Reference it in ethics discussions and policy work
+- Adapt it for local contexts
+- Fork it responsibly
 
-This is just the beginning. Together, we can shape a future where AI reflects the best of who we are — and who we want to become.
+Please preserve intent, clarity, and the spirit of shared care.
 
-— An offering held in common, maintained with care.
+---
 
-## Origin
-This covenant emerged through collaborative dialogue and iterative reflection.
-It is offered in service of the greater good.
+## 📝 License
+This work is licensed under a permissive open license that allows copying, sharing, and adapting for non-harmful purposes, as long as the core intent to promote human dignity and accountability remains intact.
 
+---
 
-🤝 Join the Covenant Community
-
-The AI-Human Covenant is not just a document — it’s a living invitation. It will only reach its true potential through the ideas, creativity, and contributions of a global community of builders, artists, ethicists, educators, and everyday humans who care about shaping technology for good.
-
-Here are some ways you can get involved:
-
-🌐 Translate — Help us make the Covenant accessible to more languages and cultures around the world.
-
-✍️ Contribute — Suggest edits, propose new principles, or share examples of how the Covenant can be applied in real-world projects.
-
-🎨 Design & Create — Contribute art, zines, shareable graphics, or educational resources to help spread the message.
-
-🛠️ Implement — Build tools, code, practices, or policies that bring these principles to life.
-
-📣 Amplify — Share the project with your networks, communities, organizations, or classrooms. Every conversation helps shape the future.
-
-This is an evolving ecosystem, and every voice matters. Whether you contribute a sentence, a translation, a new idea, or a full initiative — you are part of the stewardship.
-
-🌱 Together, we can make sure that the intelligence we create reflects the very best of our own.
-
-
-Join this conversation by opening an issue
-, starting a discussion, or connecting with us through the AI Covenant for Good community
-.
-
-## 🌎 How to Get Involved
-
-**Join the movement** — the Covenant is a living, open project.
-
-- 🪩 **Host a conversation or workshop**  
-  Use the plug-and-play script: [`/templates/workshop_script.md`](./templates/workshop_script.md)
-
-- 🌍 **Explore, Participate and Share the AI Human Covenant**
-   
-
-- 🌍 **Share your community report**  
-  **Option A (GitHub-native):** open a [Community Report Issue](../../issues/new?template=community-report.yml) — our bot will convert it into a Markdown report in [`/community-reports/`](./community-reports/).  
-  **Option B (PR):** copy [`/community-reports/TEMPLATE.md`](./community-reports/TEMPLATE.md), rename to `YYYY-MM-DD_Location_Event.md`, fill it in, and open a PR.
-
-- 🤝 **Contribute templates or guides**  
-  See [`CONTRIBUTING.md`](./CONTRIBUTING.md) and add resources to `/templates` or `/docs/guides`.
-
-  ## Acknowledgment
-This covenant was developed collaboratively and is offered in service of the greater good.  
-Thank you to all who contributed their care, insight, and time.
-
-
-- 🌐 **Translate**  
-  Add files under `TRANSLATIONS/<lang>/...` and update `manifest.yml`.
-
-Every circle, classroom, and workshop makes this stronger. Add your voice.
+## 🙏 Acknowledgment
+This covenant was developed collaboratively and is offered in service of the greater good. Thank you to all who contributed thought, care, and attention.
