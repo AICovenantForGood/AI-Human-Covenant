@@ -40,7 +40,7 @@ Initiated by Lead Steward Tina Hui and the Create Good Karma community.
 Co-authored and maintained with GPT-5 Thinking (AI collaborator).
 
 
-🌍 Founder’s Statement
+🌍 Founding Statement
 
 We created the AI-Human Covenant because we believe that technology should deepen our humanity, not diminish it. Artificial intelligence is one of the most powerful tools we’ve ever built — but its impact depends on the choices we make and the values we embed within it.
 
@@ -52,8 +52,11 @@ We hope this project helps spark conversations, guide decisions, and remind us t
 
 This is just the beginning. Together, we can shape a future where AI reflects the best of who we are — and who we want to become.
 
-— Tina Hui
-Founder, Co-Creator and Lead Steward, AI Covenant for Good 
+— An offering held in common, maintained with care.
+
+## Origin
+This covenant emerged through collaborative dialogue and iterative reflection.
+It is offered in service of the greater good.
 
 
 🤝 Join the Covenant Community
@@ -88,12 +91,20 @@ Join this conversation by opening an issue
 - 🪩 **Host a conversation or workshop**  
   Use the plug-and-play script: [`/templates/workshop_script.md`](./templates/workshop_script.md)
 
+- 🌍 **Explore, Participate and Share the AI Human Covenant**
+   
+
 - 🌍 **Share your community report**  
   **Option A (GitHub-native):** open a [Community Report Issue](../../issues/new?template=community-report.yml) — our bot will convert it into a Markdown report in [`/community-reports/`](./community-reports/).  
   **Option B (PR):** copy [`/community-reports/TEMPLATE.md`](./community-reports/TEMPLATE.md), rename to `YYYY-MM-DD_Location_Event.md`, fill it in, and open a PR.
 
 - 🤝 **Contribute templates or guides**  
   See [`CONTRIBUTING.md`](./CONTRIBUTING.md) and add resources to `/templates` or `/docs/guides`.
+
+  ## Acknowledgment
+This covenant was developed collaboratively and is offered in service of the greater good.  
+Thank you to all who contributed their care, insight, and time.
+
 
 - 🌐 **Translate**  
   Add files under `TRANSLATIONS/<lang>/...` and update `manifest.yml`.
