@@ -25,7 +25,7 @@ We choose to build and use AI in ways that deepen our humanity, protect dignity,
 - Invest in accessibility, localization, and community translation.  
 - Prefer open standards and portable data where feasible.
 
-> Remix & adapt for your org/community. Keep credits and license.
+> Share, remix & adapt for your org/community. Keep credits and license.
 
 ---
 
@@ -48,11 +48,14 @@ You are welcome to:
 - Fork it responsibly
 
 Please preserve intent, clarity, and the spirit of shared care.
+> Public Site: aihumancovenant.org
 
 ---
 
 ## 📝 License
 This work is licensed under a permissive open license that allows copying, sharing, and adapting for non-harmful purposes, as long as the core intent to promote human dignity and accountability remains intact.
+
+This is a working draft intended to support thoughtful, human approaches to AI systems.
 
 ---
 
