@@ -204,6 +204,7 @@ Submitting this form does not imply acceptance, authority, or a timeline for res
 
 Participation may take many forms, including:
 - Quiet alignment (using the mark/logo or one-line alignment attribution)
+- Signaling support
 - Thoughtful feedback or questions
 - Referencing or adoption in an organization
 - Translation or localization
@@ -211,6 +212,10 @@ Participation may take many forms, including:
 - Thoughtful collaboration, governance discussion, event hosting or facilitation
 - Parallel framework development
 - Stewardship inquiry (long-term care of this commons)
+
+If you’d like to signal support, you can simply write “support” or share a short reflection.
+
+Support signals are not endorsements, certifications, memberships, or governance roles.
 
 You’re welcome to share a reflection, question, or offer of participation or stewardship.
 
@@ -228,10 +233,21 @@ If you’re working on related ideas or frameworks, you’re welcome to share re
 
 ## Selected examples of parallel work:
 
-• The Cognitive Covenant: Partnering with AI on Human Terms
-(Psychology Today)
 
-• Post-Human AI Covenant (Rex Benedict)
-• The Human Covenant: A New Grammar for Ethical AI (Ejaz Shah)
+• [The Cognitive Covenant: Partnering with AI on Human Terms
+(Psychology Today)](https://www.psychologytoday.com/us/blog/the-digital-self/202503/the-cognitive-covenant-partnering-with-ai-on-human-terms)
 
-• Center for Humane Technology
+• [Post-Human AI Covenant (Rex Benedict)](https://www.rexbenedict.com/post-human-ai-covenant.html)
+
+• [The Human Covenant: A New Grammar for Ethical AI (Ejaz Shah)](https://www.linkedin.com/pulse/human-covenant-new-grammar-ethical-ai-sovereign-systems-ejaz-shah-xiuje)
+
+• [Center for Humane Technology](https://www.humanetech.com/)
+
+
+This covenant may be freely copied, shared, and adapted, provided its intent is preserved and it is not used to justify harm.
+
+*Built through shared effort and care.*
+
+With gratitude to all who contribute their care, thought, and labor in the service to the greater good.
+
+Offered in service of dignity, care, and the greater good.
