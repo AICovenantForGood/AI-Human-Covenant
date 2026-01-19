@@ -1,8 +1,12 @@
 # AI–Human Covenant (v1.0)
 
-The **AI–Human Covenant** is a plain-language declaration of shared commitments for how artificial intelligence should be developed and used in ways that deepen humanity, protect dignity, and serve people and planet.
+The **AI–Human Covenant** is a plain-language declaration of shared commitments for how artificial intelligence could and should be developed and used in ways that deepen humanity, protect dignity, and serve people and planet.
 
-This covenant is offered as an open resource to inspire ethical reflection, policy conversations, and responsible stewardship of AI systems.
+This covenant is offered as an open resource to inspire ethical reflection, policy conversations, and responsible stewardship of AI systems. This covenant is offered as one practical, stewarded expression within a broader global conversation about human–AI relationships.
+
+It is intended to contribute to, not replace, parallel explorations across disciplines, cultures, and communities.
+
+aihumancovenant.org
 
 ---
 
@@ -34,6 +38,14 @@ This repository is the **canonical source** for the covenant text. It is intende
 
 ---
 
+## Context
+
+This version of the AI–Human Covenant focuses on technical, civic, and human-centered design contexts, and is offered as an open, stewarded reference.
+
+It may be referenced, adapted, and built upon, provided its stated intent is preserved.
+
+---
+
 ## 🌐 Deployments and References
 This covenant is also published as a public website (e.g., one-page document or hosted version) for wide accessibility. See the website and additional resources for browsing content outside of GitHub.
 
@@ -56,6 +68,34 @@ Please preserve intent, clarity, and the spirit of shared care.
 This work is licensed under a permissive open license that allows copying, sharing, and adapting for non-harmful purposes, as long as the core intent to promote human dignity and accountability remains intact.
 
 This is a working draft intended to support thoughtful, human approaches to AI systems.
+
+---
+
+## Active Stewardship
+
+This covenant is stewarded to preserve its intent, tone, and ethical boundaries as a shared commons contribution.
+
+Stewardship is held in service of dignity, care, and human agency — not as authority, ownership, or governance over others.
+
+**Current technical steward:** Tina Hui
+
+Stewardship may evolve over time as trusted contributors demonstrate care, restraint, and alignment with the covenant’s intent.
+
+The stewards reserve the right to publicly clarify when the covenant is misrepresented or used in ways that violate its stated intent.
+
+---
+## Parallel & Related Work
+
+The language of human–AI covenants is emerging across disciplines, cultures, and communities.
+
+We recognize and welcome thoughtful parallel explorations in psychology, philosophy, policy, design, technology, and the arts.
+
+This covenant is offered as one practical, technical, and civic expression within a broader shared conversation.
+
+We believe convergence, not competition, is how humane futures are built.
+
+If you're working on related ideas or frameworks, you're welcome to share references or reflections.
+
 
 ---
 
