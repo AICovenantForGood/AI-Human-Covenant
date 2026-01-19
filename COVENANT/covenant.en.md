@@ -117,7 +117,8 @@ Systems must be designed to actively protect non-combatants and non-participants
 ## Principle 6: Secret rules are not legitimate rules
 The frameworks governing high-risk AI use must be publicly knowable and independently reviewable.
 
-## Principle 7: Automation must narrow violence, not expand itTechnology should raise the threshold for harm, not lower it.
+## Principle 7: Automation must narrow violence, not expand it
+Technology should raise the threshold for harm, not lower it.
 
 ## Principle 8: Humans cannot outsource conscience
 Responsibility cannot be delegated to software, models or systems.
@@ -162,11 +163,11 @@ If you wish to share or signal alignment, you may choose either of the following
 ## Share or display the covenant mark
 This mark may be shared or displayed as a quiet signal of alignment with the values of the AI-Human Covenant. Along with an optional one-line statement such as:
 
-> Offered in service to the greater good. < 
+> Offered in service to the greater good. 
 
 ## Option 2: Share a one-line statement (text only)
 
-> In alignment with the AI-Human Covenant <
+> In alignment with the AI-Human Covenant 
 
 These signals do not imply endorsement, authority, or compliance.
 
