@@ -245,6 +245,10 @@ If you’re working on related ideas or frameworks, you’re welcome to share re
 • [Center for Humane Technology](https://www.humanetech.com/)
 
 
+
+<img width="360" height="344" alt="AI Human Covenant Logo Icon Small" src="https://github.com/user-attachments/assets/4ce44c60-8867-4222-9d95-f03515e4e067" />
+
+
 This covenant may be freely copied, shared, and adapted, provided its intent is preserved and it is not used to justify harm.
 
 *Built through shared effort and care.*
