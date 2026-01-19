@@ -162,13 +162,13 @@ If you wish to share or signal alignment, you may choose either of the following
 ## Share or display the covenant mark
 This mark may be shared or displayed as a quiet signal of alignment with the values of the AI-Human Covenant. Along with an optional one-line statement such as:
 
-# Offered in service to the greater good.
+> Offered in service to the greater good. < 
 
 ## Option 2: Share a one-line statement (text only)
 
-# In alignment with the AI-Human Covenant
+> In alignment with the AI-Human Covenant <
 
-*These signals do not imply endorsement, authority, or compliance.
+These signals do not imply endorsement, authority, or compliance.
 
 ## PARTICIPATE (Optional)
 ## Short Intro (Important)
