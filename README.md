@@ -44,6 +44,7 @@ This version of the AI–Human Covenant focuses on technical, civic, and human-c
 
 It may be referenced, adapted, and built upon, provided its stated intent is preserved.
 
+
 ---
 
 ## 🌐 Deployments and References
@@ -70,7 +71,6 @@ This work is licensed under a permissive open license that allows copying, shari
 This is a working draft intended to support thoughtful, human approaches to AI systems.
 
 ---
-
 ## Active Stewardship
 
 This covenant is stewarded to preserve its intent, tone, and ethical boundaries as a shared commons contribution.
@@ -79,9 +79,9 @@ Stewardship is held in service of dignity, care, and human agency — not as aut
 
 **Current technical steward:** Tina Hui
 
-Stewardship may evolve over time as trusted contributors demonstrate care, restraint, and alignment with the covenant’s intent.
+Stewardship evolves slowly, guided by demonstrated care, restraint, and alignment with the covenant’s intent.
 
-The stewards reserve the right to publicly clarify when the covenant is misrepresented or used in ways that violate its stated intent.
+The stewards may publicly clarify when the covenant is misrepresented or used in ways that violate its stated intent.
 
 ---
 ## Parallel & Related Work
@@ -96,6 +96,24 @@ We believe convergence, not competition, is how humane futures are built.
 
 If you're working on related ideas or frameworks, you're welcome to share references or reflections.
 
+--
+
+Selected examples of parallel work:
+
+• The Cognitive Covenant: Partnering with AI on Human Terms  
+  (Psychology Today)  
+  https://www.psychologytoday.com/us/blog/the-digital-self/202503/the-cognitive-covenant-partnering-with-ai-on-human-terms  
+
+• Post-Human AI Covenant  
+  (Rex Benedict)  
+  https://www.rexbenedict.com/post-human-ai-covenant.html  
+
+• The Human Covenant: A New Grammar for Ethical AI  
+  (Ejaz Shah)  
+  https://www.linkedin.com/pulse/human-covenant-new-grammar-ethical-ai-sovereign-systems-ejaz-shah-xiuje  
+
+• Center for Humane Technology  
+  https://www.humanetech.com/
 
 ---
 
