@@ -34,7 +34,8 @@ We choose to build and use AI in ways that deepen our humanity, protect dignity,
 ---
 
 ## 🧭 Purpose
-This repository is the **canonical source** for the covenant text. It is intended to be shared, cited, referenced in policy discussions, and adapted locally — provided the intent to protect human dignity and accountability is preserved.
+This repository is the canonical source for this version of the covenant text.
+It is intended to be shared, cited, referenced in policy discussions, and adapted locally — provided the intent to protect human dignity and accountability is preserved.
 
 ---
 
@@ -75,7 +76,8 @@ This is a working draft intended to support thoughtful, human approaches to AI s
 ## STEWARDSHIP
 ## Intro
 
-Stewardship exists to preserve intent, not control interpretation.This covenant is stewarded, not owned.
+Stewardship exists to preserve intent, not to control interpretation.  
+This covenant is stewarded, not owned, and is held in the public interest.
 
 It exists in the public interest and is maintained to preserve its intent: protecting human dignity, accountability and care.
 
@@ -124,6 +126,9 @@ If you wish to discuss stewardship, collaboration, or translations, you may reac
 No mailing list is required.
 No affiliation is demanded.
 
+We collect the minimum information needed to respond and do not sell data, run mailing lists, or track visitors.
+
+
 The canonical source lives here on GitHub under the AI for Good umbrella.
 
 ## Offer Stewardship and Participation (optional)
@@ -155,10 +160,9 @@ If this covenant resonates with you, we invite you to signal support as a quiet 
 Signaling support does not imply endorsement, authority, compliance, or governance rights.
 
 It is simply a way to say: this matters, and I stand with its intent.
+Support signals are not certifications, memberships, or governance roles.
 
-If you'd like to share a reflection, question, or offer of participation or stewardship below.
-
-If you’d like to signal support, you can simply write “support” or share a short reflection below.
+If you’d like to share a reflection, question, offer of participation, or signal support, you can simply write “support” or share a short reflection below.
 
 ## Active Stewardship
 
@@ -171,6 +175,8 @@ Stewardship is held in service of dignity, care, and human agency — not as aut
 Stewardship evolves slowly, guided by demonstrated care, restraint, and alignment with the covenant’s intent.
 
 The stewards may publicly clarify when the covenant is misrepresented or used in ways that violate its stated intent.
+
+Stewardship roles are invitation-only and are extended slowly based on demonstrated care, restraint, and alignment with the covenant’s intent.
 
 ## Parallel & Related Work
 
