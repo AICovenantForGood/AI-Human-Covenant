@@ -164,6 +164,65 @@ Support signals are not certifications, memberships, or governance roles.
 
 If you’d like to share a reflection, question, offer of participation, or signal support, you can simply write “support” or share a short reflection below.
 
+---
+
+## Decentralized Stewardship
+
+The AI–Human Covenant is intentionally stewarded as a distributed commons, not owned or governed by a single individual, organization, or platform.
+
+Long-term integrity is best preserved through many aligned stewards holding shared intent, rather than centralized authority.
+
+This means:
+
+- Anyone may fork, translate, adapt, or reference this covenant responsibly  
+- Parallel versions and localized adaptations are welcome  
+- Stewardship exists to preserve intent, not to enforce control  
+- No single entity holds exclusive authority over this work  
+
+The community is invited to help steward this covenant over time through care, translation, documentation, governance reflection, and ethical oversight.
+
+This work is open source.  
+Its future is intentionally shared.
+
+## Stewardship as a Commons
+
+The AI–Human Covenant is stewarded as a shared commons.
+
+This means:
+
+- There is no single owner of this work  
+- There is no centralized authority  
+- There is no exclusive governance body  
+- There is no compliance enforcement mechanism  
+
+Stewardship is defined as:
+
+- Preserving the covenant’s core intent  
+- Protecting it from misuse to justify harm  
+- Maintaining clarity and accessibility  
+- Supporting translation and localization  
+- Encouraging ethical reflection and dialogue  
+
+Anyone may participate in stewardship through:
+
+- Responsible forks  
+- Translations  
+- Documentation improvements  
+- Governance discussion  
+- Parallel framework development  
+- Community facilitation  
+- Ethical critique  
+- Contextual adaptation
+
+This covenant is intentionally not bound to any single hosting platform.
+
+If GitHub or this website ceases to serve the public interest, the community is encouraged to mirror, fork, and steward this work elsewhere while preserving its stated intent.
+
+Active Stewardship is offered, not granted.
+
+Alignment is demonstrated through care, restraint, and fidelity to the covenant’s stated intent.
+
+
 ## Active Stewardship
 
 This covenant is stewarded to preserve its intent, tone, and ethical boundaries as a shared commons contribution.
