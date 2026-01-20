@@ -206,8 +206,23 @@ Selected examples of parallel work:
   (Ejaz Shah)  
   https://www.linkedin.com/pulse/human-covenant-new-grammar-ethical-ai-sovereign-systems-ejaz-shah-xiuje  
 
+• California AI Transparency & Labeling Legislation
+(Office of Senator Josh Becker)
+https://sd13.senate.ca.gov/news/press-release/september-19-2024/governor-signs-landmark-ai-transparency-bill-empowering
+
 • Center for Humane Technology  
   https://www.humanetech.com/
+
+---
+---
+
+## AI Assistance Disclosure
+
+This covenant and its supporting materials were developed through human stewardship with the assistance of publicly available AI tools for drafting, editing, and language refinement.
+
+Final authorship, intent, and stewardship decisions remain human-led and accountable.
+
+This disclosure is offered in alignment with the covenant’s commitment to transparency and responsible AI use.
 
 ---
 
