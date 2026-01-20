@@ -137,7 +137,7 @@ Forks, translations, and adaptations are welcome when intent is preserved.
 ## Acknowledgement
 This covenant was developed through collaborative reflection and dialogue. We offer thanks to all who contributed their time, care, and discernment in service to the greater good.
 
-## This covenant may be freely copied, shared, and adapted, provided its intent is preserved and it is not used to justify harm.
+## This covenant is a stewarded civic commons artifact with distributed guardianship norms, it may be freely copied, shared, and adapted, provided its intent is preserved and it is not used to justify harm.
 
 *Built through shared effort and care.*
 
